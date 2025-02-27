@@ -10,8 +10,8 @@ Save Form Structure: Log the current form as JSON in the console for further use
 Local Storage Support: Form structure is saved in local storage.
 
 ## Technologies Used
-HTML
-CSS
+HTML, 
+CSS, 
 JavaScript (ES6+)
 
 deployelik: 
